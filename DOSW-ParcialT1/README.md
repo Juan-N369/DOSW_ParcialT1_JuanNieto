@@ -21,3 +21,7 @@
 |**Visualizar el perfil de un tutor**|COMO estudiante de pregrado QUIERO Visualizar el perfil de un tutor indicado PARA PODER determinar sus capacidades y determinar si estoy conforme con mi asignacion.| Debe retornar un String que muestre: <br>O. Nombre del tutor.<br>O. Materias que pueden tratar.<br>O. Carreras de la que pueden hablar. |
 |Registrarse como tutor|COMO estudiante de posgrado QUIERO registrarme como tutor segun PARA PODER dar tutorias a los estudiante que los neseciten segun mis materias y mis programas academicos|Debe quedar en guardado en el sistema, con su nombre, materias a tratar y programas academicos que puede tratar.|
 |Registrarse como tutor|COMO Profesor QUIERO registrarme como tutor segun PARA PODER dar tutorias a los estudiante que los neseciten segun mis materias|Debe quedar en guardado en el sistema, con su nombre, materias asignadas.|
+
+### Diagrama de casos de uso
+
+![alt text](<docs/images/UseCase Diagram.png>)
