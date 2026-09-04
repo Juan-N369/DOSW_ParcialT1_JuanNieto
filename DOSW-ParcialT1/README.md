@@ -4,7 +4,7 @@
 
 ### Diagrama de Contexto C4
 
-![alt text](docs/context.png)
+![alt text](docs/uml/context.png)
 
 ## Requerimientos
 
