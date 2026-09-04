@@ -30,3 +30,5 @@
 ![alt text](docs/images/Task2.png)
 
 ![alt text](docs/images/Task3.png)
+
+**URl jira:** https://dosw2026-2.atlassian.net/jira/software/projects/DPT/boards/3?atlOrigin=eyJpIjoiYjcyOWYxNTJmYjFlNDhjMmE5MTIxNDhmMTk1MDQwZTQiLCJwIjoiaiJ9
