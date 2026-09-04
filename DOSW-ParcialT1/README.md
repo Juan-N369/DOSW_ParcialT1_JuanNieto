@@ -31,3 +31,24 @@
 ### Diagrama de casos de uso
 
 ![alt text](<docs/images/UseCase Diagram.png>)
+
+## Planeacion Agil
+
+### Epic
+
+![alt text](docs/images/Epic.png)
+
+### Story
+
+![alt text](docs/images/Story.png)
+
+### Tasks
+
+![alt text](docs/images/Task1.png)
+
+![alt text](docs/images/Task2.png)
+
+![alt text](docs/images/Task3.png)
+
+**URl jira:** https://dosw2026-2.atlassian.net/jira/software/projects/DPT/boards/3?atlOrigin=eyJpIjoiYjcyOWYxNTJmYjFlNDhjMmE5MTIxNDhmMTk1MDQwZTQiLCJwIjoiaiJ9
+
