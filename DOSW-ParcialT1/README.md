@@ -52,3 +52,17 @@
 
 **URl jira:** https://dosw2026-2.atlassian.net/jira/software/projects/DPT/boards/3?atlOrigin=eyJpIjoiYjcyOWYxNTJmYjFlNDhjMmE5MTIxNDhmMTk1MDQwZTQiLCJwIjoiaiJ9
 
+## Patrones de diseño
+
+### Patron: Strategy
+
+### Tipo de patron: Comportamiento
+
+Se desea utilizar este patron para la los algoritmos de seleccion de tutor segun la preferencia del usuario, permitiendo asi que la funcionalidad no tenga que hacer if's segun la preferencia del usuario, unicamente, que deba elegirlo y la funcionalidad solo ejecuta el algoritmo de seleccion para esa preferencia con una clase concreta que implementa a una interfaz de seleccion.
+
+### Patron: Facthory Method
+
+### Tipo de Patron: Creacional
+
+Se desea utilizar este patron para la creacion de tutores, de esta manera solo se tendra una interfaz de tutor para que las clases concretas que puedan ser tutores, la implementen y luego al momento de crear un tutor, no se deba preocupar el usuario por si es estudiante de posgrado, o profesor, unicamente de que sea tutor y sus acciones procedentes con el, controlando if's y manteniendo una mejor disposicion.
+
